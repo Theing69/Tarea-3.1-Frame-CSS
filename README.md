@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="output.css" rel="stylesheet">
-    <title>Urban Kickz</title>
+    <title> Urban Kickz </title>
 </head>
 <body>
     <header class="bg-white p-3.5 flex items-center justify-between shadow-sm">
@@ -31,21 +31,18 @@
 
 <div class="overflow-hidden w-full mt-12">
     <div class="flex animate-marquee gap-8 w-max">
-        
         <div class="flex gap-8">
             <img src="recorrido1.png" class="w-100 h-100 object-cover rounded-xl">
             <img src="recorrido2.png" class="w-100 h-100 object-cover rounded-xl">
             <img src="recorrido3.png" class="w-100 h-100 object-cover rounded-xl">
             <img src="recorrido4.png" class="w-100 h-100 object-cover rounded-xl">
         </div>
-
         <div class="flex gap-8">
             <img src="recorrido1.png" class="w-100 h-100 object-cover rounded-xl">
             <img src="recorrido2.png" class="w-100 h-100 object-cover rounded-xl">
             <img src="recorrido3.png" class="w-100 h-100 object-cover rounded-xl">
             <img src="recorrido4.png" class="w-100 h-100 object-cover rounded-xl">
         </div>
-        
     </div>
 </div>
 
@@ -54,12 +51,10 @@
     <h2 class="text-2xl md:text-3xl font-extrabold text-black mb-10 text-center md:text-left">
         Lo Más Vendido
     </h2>
-
     <div class="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-12">
-        
         <div class="group cursor-pointer">
             <div class="bg-[#f6f6f6] aspect-[4/5] flex justify-center items-center overflow-hidden rounded-sm">
-                <img src="Imagenes/jersey_blanco_liga.png" alt="Jersey Blanco" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105">
+                <img src="jersey_blanco_liga.png" alt="Jersey Blanco" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105">
             </div>
             <div class="mt-4 flex justify-between items-start gap-4">
                 <h3 class="text-sm font-bold text-black leading-tight">
@@ -68,10 +63,9 @@
                 <p class="text-sm text-gray-500">$2,999</p>
             </div>
         </div>
-
         <div class="group cursor-pointer">
             <div class="bg-[#f6f6f6] aspect-[4/5] flex justify-center items-center overflow-hidden rounded-sm">
-                <img src="Imagenes/jersey_verde_liga.png" alt="Jersey Verde" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105">
+                <img src="jersey_verde_liga.png" alt="Jersey Verde" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105">
             </div>
             <div class="mt-4 flex justify-between items-start gap-4">
                 <h3 class="text-sm font-bold text-black leading-tight">
@@ -80,10 +74,9 @@
                 <p class="text-sm text-gray-500">$2,999</p>
             </div>
         </div>
-
         <div class="group cursor-pointer">
             <div class="bg-[#f6f6f6] aspect-[4/5] flex justify-center items-center overflow-hidden rounded-sm">
-                <img src="Imagenes/af1.png" alt="Tenis Nike AF1" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105">
+                <img src="af1.png" alt="Tenis Nike AF1" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105">
             </div>
             <div class="mt-4 flex justify-between items-start gap-4">
                 <h3 class="text-sm font-bold text-black leading-tight">
@@ -92,10 +85,9 @@
                 <p class="text-sm text-gray-500">$2,999</p>
             </div>
         </div>
-
         <div class="group cursor-pointer">
             <div class="bg-[#f6f6f6] aspect-[4/5] flex justify-center items-center overflow-hidden rounded-sm">
-                <img src="Imagenes/af1_premium.png" alt="Tenis Nike AF1 Premium" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105">
+                <img src="af1_premium.png" alt="Tenis Nike AF1 Premium" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105">
             </div>
             <div class="mt-4 flex justify-between items-start gap-4">
                 <h3 class="text-sm font-bold text-black leading-tight">
@@ -104,13 +96,11 @@
                 <p class="text-sm text-gray-500">$2,999</p>
             </div>
         </div>
-
     </div>
 </div>
 
 <footer class="mt-24 pt-12 pb-16 px-6 border-t border-gray-200 max-w-7xl mx-auto">
     <div class="grid grid-cols-1 md:grid-cols-2 gap-12 md:gap-24">
-        
         <div>
             <h3 class="text-lg font-bold text-black mb-4">Terminos & Condiciones</h3>
             <p class="text-sm text-gray-500 leading-relaxed">
@@ -120,7 +110,6 @@
                 operaciones o regulaciones legales.
             </p>
         </div>
-
         <div>
             <h3 class="text-lg font-bold text-black mb-4">Contactanos</h3>
             <ul class="text-sm text-gray-500 flex flex-col gap-3">
@@ -129,7 +118,6 @@
                 <li><a href="#" class="hover:text-black transition-colors">Linkedin</a></li>
             </ul>
         </div>
-        
     </div>
 </footer>
 </body>
