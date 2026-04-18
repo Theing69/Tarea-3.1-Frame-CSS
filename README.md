@@ -4,13 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="./dist/output.css" rel="stylesheet">
+    <link href="output.css" rel="stylesheet">
     <title>Urban Kickz</title>
 </head>
 <body>
     <header class="bg-white p-3.5 flex items-center justify-between shadow-sm">
     <div>
-        <img src="Imagenes/Logo_navegacion (1).png" alt="Logo de Urban Kickz" class="h-11 w-11 object-contain">
+        <img src="Logo_navegacion (1).png" alt="Logo de Urban Kickz" class="h-11 w-11 object-contain">
     </div>
     <nav>
         <ul class="flex items-center gap-8 ">
@@ -33,17 +33,17 @@
     <div class="flex animate-marquee gap-8 w-max">
         
         <div class="flex gap-8">
-            <img src="Imagenes/recorrido1.png" class="w-100 h-100 object-cover rounded-xl">
-            <img src="Imagenes/recorrido2.png" class="w-100 h-100 object-cover rounded-xl">
-            <img src="Imagenes/recorrido3.png" class="w-100 h-100 object-cover rounded-xl">
-            <img src="Imagenes/recorrido4.png" class="w-100 h-100 object-cover rounded-xl">
+            <img src="recorrido1.png" class="w-100 h-100 object-cover rounded-xl">
+            <img src="recorrido2.png" class="w-100 h-100 object-cover rounded-xl">
+            <img src="recorrido3.png" class="w-100 h-100 object-cover rounded-xl">
+            <img src="recorrido4.png" class="w-100 h-100 object-cover rounded-xl">
         </div>
 
         <div class="flex gap-8">
-            <img src="Imagenes/recorrido1.png" class="w-100 h-100 object-cover rounded-xl">
-            <img src="Imagenes/recorrido2.png" class="w-100 h-100 object-cover rounded-xl">
-            <img src="Imagenes/recorrido3.png" class="w-100 h-100 object-cover rounded-xl">
-            <img src="Imagenes/recorrido4.png" class="w-100 h-100 object-cover rounded-xl">
+            <img src="recorrido1.png" class="w-100 h-100 object-cover rounded-xl">
+            <img src="recorrido2.png" class="w-100 h-100 object-cover rounded-xl">
+            <img src="recorrido3.png" class="w-100 h-100 object-cover rounded-xl">
+            <img src="recorrido4.png" class="w-100 h-100 object-cover rounded-xl">
         </div>
         
     </div>
